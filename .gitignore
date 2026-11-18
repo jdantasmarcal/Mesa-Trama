@@ -1,0 +1,18 @@
+# Dados de pesquisa: nunca versionar
+*.csv
+*.tsv
+*.json
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
+# Backups exportados pelo app
+mesa-do-pesquisador-backup-*
+
+# Ambiente de testes
+__pycache__/
+*.pyc
+node_modules/
+.venv/
